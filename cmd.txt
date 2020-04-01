@@ -1,0 +1,5 @@
+git config user.name "Hemant"
+git config user.email "hemant@techtic.com"
+
+
+sanity dataset import ../data/post-events.json.ndjson development
