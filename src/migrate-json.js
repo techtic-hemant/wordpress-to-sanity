@@ -122,17 +122,23 @@ async function main() {
 
  // let data = JSON.stringify(output, null, '\t');
 
-  var serialize = ndjson.serialize()
-  serialize.on('data', function(line) {
-    // line is a line of stringified JSON with a newline delimiter at the end
+  const serialize = ndjson.serialize();
 
-     fs.writeFileSync(__dirname + "/" + filename+".ndjson", line);
+  var ndjsonData = [];
+  serialize.on('data', (line)=> {
+    ndjsonData.push(line);
+  })
+
+  serialize.on('end',(end) => {
+    fs.writeFileSync(__dirname + "/" + filename+".ndjson", ndjsonData.join(""));
     console.log("File saved : " +  filename+".ndjson");
   })
-  serialize.write(output)
-  serialize.end()
 
+  for (var i = output.length - 1; i >= 0; i--) {
+    serialize.write( output[i])
+  }
+  
+  serialize.end();
 
- 
 }
 main()
