@@ -1,0 +1,138 @@
+#!/usr/bin/env node
+
+/* eslint-disable id-length, no-console, no-process-env, no-sync, no-process-exit */
+const fs = require('fs')
+const parseDate = require('./lib/parseDate')
+const parseBody = require('./lib/parseBody')
+const slugify = require('slugify');
+const ndjson = require('ndjson')
+
+function generateAuthorId(id) {
+    return `author-${id}`
+}
+
+function generateCategoryId(id) {
+    return `category-${id}`
+}
+
+function getJsonFromFile(path = '') {
+    if (!path) {
+        return console.error('You need to set path')
+    }
+    let rawdata = fs.readFileSync(path);
+    return JSON.parse(rawdata);
+}
+async function buildJSON(json) {
+    const {
+        rss: {
+            channel
+        }
+    } = json;
+
+    const meta = {
+      rootUrl: channel.base_site_url.__text
+    };
+
+
+
+    /**
+     * Get the categories
+     */
+
+    let categories = [];
+
+    if(channel.category && channel.category.length > 0){
+      categories = channel.category.map(function(item){
+        return {
+                _type: 'category',
+                //_id: item.term_id.__text,
+                _id: generateCategoryId(item.category_nicename.__cdata),
+                title: item.cat_name.__cdata
+            }
+      })
+    }
+
+    /**
+     * Get the users
+     */
+    let users = [];
+
+    if(channel.author && channel.author.length > 0){
+      users = channel.author.map((item)=>{
+        return {
+              _type: 'author',
+              _id: generateAuthorId(item.author_id.__text),
+              name: item.author_display_name.__cdata,
+              slug: {
+                current: slugify(item.author_login.__cdata, { lower: true })
+              },
+              email: item.author_email.__cdata
+            }
+      })
+    }
+
+    /**
+     * Get the posts
+     */
+    let posts = [];
+
+    if(channel.item && channel.item.length > 0){
+      posts = channel.item.map((item)=>{
+        const { title, category, link: permalink, description } = item;
+        let body;
+          try{
+            body = parseDate(item.encoded.map((desc) => desc.__cdata).join("\n"));
+          }catch{
+            body = ""
+          }
+        let user = users.find(user => user.slug.current ===  slugify( item.creator.__cdata, { lower: true }));
+        return {
+            title,
+            description,
+            body,
+            publishedAt: parseDate(item),
+            slug: {
+              current: slugify(title, { lower: true })
+            },
+            categories: categories.map((category)=>{
+              return {
+                _type: 'reference',
+                _ref: generateCategoryId(category._nicename)
+              };
+            }),
+            author: {
+              _type: 'reference',
+              _ref: user._id
+            },
+          }
+      })
+    }
+
+    const output = [
+        /* meta, */
+        ...users, ...posts, ...categories
+    ]
+    return output
+
+}
+async function main() {
+  const filename = 'data/post-events.json';
+  const json = await getJsonFromFile(__dirname + "/" + filename);
+  const output = await buildJSON(json);
+
+ // let data = JSON.stringify(output, null, '\t');
+
+  var serialize = ndjson.serialize()
+  serialize.on('data', function(line) {
+    // line is a line of stringified JSON with a newline delimiter at the end
+
+     fs.writeFileSync(__dirname + "/" + filename+".ndjson", line);
+    console.log("File saved : " +  filename+".ndjson");
+  })
+  serialize.write(output)
+  serialize.end()
+
+
+ 
+}
+main()
