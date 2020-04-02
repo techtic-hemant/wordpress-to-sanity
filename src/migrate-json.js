@@ -23,11 +23,12 @@ function getJsonFromFile(path = '') {
     return JSON.parse(rawdata);
 }
 async function buildJSON(json) {
-    const {
-        rss: {
-            channel
-        }
-    } = json;
+    const channel = json.channel ? json.channel : json.rss.channel
+    // const {
+    //     rss: {
+    //         channel
+    //     }
+    // } = json;
 
     const meta = {
       rootUrl: channel.base_site_url.__text
@@ -87,6 +88,7 @@ async function buildJSON(json) {
           }
         let user = users.find(user => user.slug.current ===  slugify( item.creator.__cdata, { lower: true }));
         return {
+            _type: 'post',
             title,
             description,
             body,
@@ -100,10 +102,10 @@ async function buildJSON(json) {
                 _ref: generateCategoryId(category._nicename)
               };
             }),
-            author: {
+            author: user ? ({
               _type: 'reference',
               _ref: user._id
-            },
+            }) : {},
           }
       })
     }
@@ -116,29 +118,33 @@ async function buildJSON(json) {
 
 }
 async function main() {
-  const filename = 'data/post-events.json';
-  const json = await getJsonFromFile(__dirname + "/" + filename);
-  const output = await buildJSON(json);
 
- // let data = JSON.stringify(output, null, '\t');
+  ['data/post-events.json', 'data/post-news.json', 'data/post-work.json'].forEach(async filename => {
+    const json = await getJsonFromFile(__dirname + "/" + filename);
+    const output = await buildJSON(json);
 
-  const serialize = ndjson.serialize();
+    //let data = JSON.stringify(output, null, '\t');
 
-  var ndjsonData = [];
-  serialize.on('data', (line)=> {
-    ndjsonData.push(line);
-  })
+    // console.log("File saved : " + filename + ".json");
+    // fs.writeFileSync(__dirname + "/" + filename+".json" , data);
 
-  serialize.on('end',(end) => {
-    fs.writeFileSync(__dirname + "/" + filename+".ndjson", ndjsonData.join(""));
-    console.log("File saved : " +  filename+".ndjson");
-  })
+    const serialize = ndjson.serialize();
 
-  for (var i = output.length - 1; i >= 0; i--) {
-    serialize.write( output[i])
-  }
-  
-  serialize.end();
+    var ndjsonData = [];
+    serialize.on('data', (line) => {
+      ndjsonData.push(line);
+    })
 
+    serialize.on('end', (end) => {
+      fs.writeFileSync(__dirname + "/" + filename + ".ndjson", ndjsonData.join(""));
+      console.log("File saved : " + filename + ".ndjson");
+    })
+
+    for (var i = output.length - 1; i >= 0; i--) {
+      serialize.write(output[i])
+    }
+
+    serialize.end();
+  });
 }
 main()
