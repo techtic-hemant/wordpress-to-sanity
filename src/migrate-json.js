@@ -4,7 +4,7 @@
 const fs = require('fs')
 const parseDate = require('./lib/parseDate')
 const parseBody = require('./lib/parseBody')
-const slugify = require('slugify');
+//const slugify = require('slugify');
 const ndjson = require('ndjson')
 
 function generateAuthorId(id) {
@@ -13,6 +13,19 @@ function generateAuthorId(id) {
 
 function generateCategoryId(id) {
     return `category-${id}`
+}
+
+function slugify( str ) {
+  
+  //replace all special characters | symbols with a space
+  str = str.replace(/[`~!@#$%^&*()_\-+=\[\]{};:'"\\|\/,.<>?\s]/g, ' ').toLowerCase();
+  
+  // trim spaces at start and end of string
+  str = str.replace(/^\s+|\s+$/gm,'');
+  
+  // replace space with dash/hyphen
+  str = str.replace(/\s+/g, '-');  
+  return str;
 }
 
 function getJsonFromFile(path = '') {
@@ -79,27 +92,31 @@ async function buildJSON(json) {
 
     if(channel.item && channel.item.length > 0){
       posts = channel.item.map((item)=>{
-        const { title, category, link: permalink, description } = item;
+        const { title, category, description, post_name } = item;
         let body;
-          try{
-            body = parseDate(item.encoded.map((desc) => desc.__cdata).join("\n"));
-          }catch{
-            body = ""
-          }
+        try {
+          body = parseBody(item.encoded.map((desc) => desc.__cdata).join("\n"));
+         // body = item.encoded.map((desc) => desc.__cdata).join("\n");
+        } catch {
+          body = ""
+        }
         let user = users.find(user => user.slug.current ===  slugify( item.creator.__cdata, { lower: true }));
         return {
             _type: 'post',
+            _id: post_name.__cdata,
             title,
-            description,
+            //description,
             body,
             publishedAt: parseDate(item),
             slug: {
-              current: slugify(title, { lower: true })
+              current: post_name.__cdata
             },
-            categories: categories.map((category)=>{
+            categories: category.filter((cat)=>{
+              return cat._domain === 'category'
+            }).map((cat)=>{
               return {
                 _type: 'reference',
-                _ref: generateCategoryId(category._nicename)
+                _ref: generateCategoryId(cat._nicename)
               };
             }),
             author: user ? ({
@@ -119,15 +136,16 @@ async function buildJSON(json) {
 }
 async function main() {
 
-  ['data/post-events.json', 'data/post-news.json', 'data/post-work.json'].forEach(async filename => {
+  //['data/post-events.json', 'data/post-news.json', 'data/post-work.json'].forEach(async filename => {
+   ['data/post-work.json'].forEach(async filename => {
     const json = await getJsonFromFile(__dirname + "/" + filename);
     const output = await buildJSON(json);
 
-    //let data = JSON.stringify(output, null, '\t');
+    let data = JSON.stringify(output, null, '\t');
 
     // console.log("File saved : " + filename + ".json");
     // fs.writeFileSync(__dirname + "/" + filename+".json" , data);
-
+    fs.writeFileSync(__dirname + "/" + filename + ".json", data);
     const serialize = ndjson.serialize();
 
     var ndjsonData = [];
