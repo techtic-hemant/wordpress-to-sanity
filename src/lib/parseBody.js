@@ -20,8 +20,6 @@ function htmlToBlocks (html, options) {
  // html = html.replace(/\[(\S+)[^\]]*][^\[]*\[\/\1\]/g, '');
   
 
-  console.log(html)
-
   const blocks = blockTools.htmlToBlocks(sanitizeHTML(html), blockContentType, {
     parseHtml: htmlContent => new JSDOM(htmlContent).window.document,
     rules: [

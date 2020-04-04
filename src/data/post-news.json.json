@@ -1,0 +1,2765 @@
+[
+	{
+		"_type": "category",
+		"_id": "category-news",
+		"title": "News"
+	},
+	{
+		"_type": "category",
+		"_id": "category-work",
+		"title": "Work"
+	},
+	{
+		"_type": "category",
+		"_id": "category-events",
+		"title": "Events"
+	},
+	{
+		"_type": "category",
+		"_id": "category-featured",
+		"title": "Featured"
+	},
+	{
+		"_type": "category",
+		"_id": "category-inspirational",
+		"title": "Inspirational"
+	},
+	{
+		"_type": "category",
+		"_id": "category-uncategorized",
+		"title": "Uncategorized"
+	},
+	{
+		"_type": "post",
+		"_id": "1943",
+		"title": "Bell Fleetm@tic: The Cutting-Edge System",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "3657b13396640",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "3657b1339664"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "52ef36f4f2ec",
+						"_type": "link",
+						"href": "http://belltrucksamerica.com/"
+					},
+					{
+						"_key": "936ce3d0ca0f",
+						"_type": "link",
+						"href": "http://fleetmatic.bellequipment.com/ProductDetails.aspx"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\"Built smarter, to work harder.\" ",
+						"_key": "b05114b12a1e0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"52ef36f4f2ec"
+						],
+						"text": "Bell",
+						"_key": "b05114b12a1e1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " has developed ",
+						"_key": "b05114b12a1e2"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"936ce3d0ca0f",
+							"em"
+						],
+						"text": "the",
+						"_key": "b05114b12a1e3"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"936ce3d0ca0f"
+						],
+						"text": " cutting-edge fleet management system",
+						"_key": "b05114b12a1e4"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", Fleetm@tic. Carefully designed and accurately collecting data, Fleetm@tic enables customers to monitor their fleet with pole-to-pole satellite coverage. With Fleetm@tic's user-friendly technology, data collection and analysis becomes simple.",
+						"_key": "b05114b12a1e5"
+					}
+				],
+				"_key": "b05114b12a1e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "515499d5d6e00",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "515499d5d6e0"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Detailed Information at Your Fingertips",
+						"_key": "1f67bd42d22e0"
+					}
+				],
+				"_key": "1f67bd42d22e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "007c5f887f8a0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "007c5f887f8a"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic assists you in operations by provided data to keep projects on schedule, maintain machine health, and reduce the cost of running machines.",
+						"_key": "d64f4c42846e0"
+					}
+				],
+				"_key": "d64f4c42846e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "09c751f0fb960",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "09c751f0fb96"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Both machine and shift can be monitored.",
+						"_key": "9f7c78ca894e0"
+					}
+				],
+				"_key": "9f7c78ca894e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The \"Driver ID\" feature will ensure that your staff take responsibility for the machine during their shift.",
+						"_key": "e52660e01a1f0"
+					}
+				],
+				"_key": "e52660e01a1f"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "2ca1c52752890",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "2ca1c5275289"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Driver ID identifies each operator by their start-up code.",
+						"_key": "fb556db39ca40"
+					}
+				],
+				"_key": "fb556db39ca4"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A Shift Summary Report is calculated.",
+						"_key": "493f828fac060"
+					}
+				],
+				"_key": "493f828fac06"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Shift Hours.",
+						"_key": "01dc670440ab0"
+					}
+				],
+				"_key": "01dc670440ab"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Average Fuel Consumption.",
+						"_key": "c5b30c55f3200"
+					}
+				],
+				"_key": "c5b30c55f320"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Tons Moved.",
+						"_key": "6d0a24619e7e0"
+					}
+				],
+				"_key": "6d0a24619e7e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Total Cycles.",
+						"_key": "202c0d166fb80"
+					}
+				],
+				"_key": "202c0d166fb8"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Tonnage per Cycle.",
+						"_key": "61522d9d80480"
+					}
+				],
+				"_key": "61522d9d8048"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Distance Covered.",
+						"_key": "ddbcab0e77c30"
+					}
+				],
+				"_key": "ddbcab0e77c3"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Average Speed.",
+						"_key": "ec9bd60d1b830"
+					}
+				],
+				"_key": "ec9bd60d1b83"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "0e1553ae09fb0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "0e1553ae09fb"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic also provides many other features. Among some:",
+						"_key": "00eaa4812a3d0"
+					}
+				],
+				"_key": "00eaa4812a3d"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Total Machine Hours.",
+						"_key": "f30dc27c08a70"
+					}
+				],
+				"_key": "f30dc27c08a7"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fuel Level %.",
+						"_key": "3be7200036c30"
+					}
+				],
+				"_key": "3be7200036c3"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fault Codes.",
+						"_key": "d3a83263083f0"
+					}
+				],
+				"_key": "d3a83263083f"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Service Indicators.",
+						"_key": "05fb120a279d0"
+					}
+				],
+				"_key": "05fb120a279d"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Overload Count.",
+						"_key": "4f13e6a3a3f50"
+					}
+				],
+				"_key": "4f13e6a3a3f5"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Laden/Unladen Time.",
+						"_key": "406156683fe00"
+					}
+				],
+				"_key": "406156683fe0"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Machine Location.",
+						"_key": "c1ce1c4c0d480"
+					}
+				],
+				"_key": "c1ce1c4c0d48"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "fc85724f0c330",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "fc85724f0c33"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic offers different fleet packages.",
+						"_key": "a1896bc0bc590"
+					}
+				],
+				"_key": "a1896bc0bc59"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "34 features in the Classic Package.",
+						"_key": "fb4abbb400c00"
+					}
+				],
+				"_key": "fb4abbb400c0"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "39 features in the Premium Package.",
+						"_key": "5eab4971a43d0"
+					}
+				],
+				"_key": "5eab4971a43d"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "c2dc0282cbd10",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "c2dc0282cbd1"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "441c27686d2c0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "441c27686d2c"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "How Fleetm@tic Works",
+						"_key": "f347848e84df0"
+					}
+				],
+				"_key": "f347848e84df"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "7f2b05ccebe60",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "7f2b05ccebe6"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic keeps you in touch with your equipment 24/7.",
+						"_key": "5261226f620b0"
+					}
+				],
+				"_key": "5261226f620b"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "ae7b4fdd7b670",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "ae7b4fdd7b67"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Position and data are transmitted by the Fleetm@tic GPS Data Transmitter/Receiver Unit.",
+						"_key": "590f046c4c080"
+					}
+				],
+				"_key": "590f046c4c08"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Orbiting GPS Satellites calculate the position of the machine.",
+						"_key": "ee57fa8d5aa00"
+					}
+				],
+				"_key": "ee57fa8d5aa0"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The On-board Memory Module stores machine position, production, and data.",
+						"_key": "1d3a01ce34130"
+					}
+				],
+				"_key": "1d3a01ce3413"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The data is transmitted to Bell Fleetm@tic servers though the service provider's base station where it is processed into automated reports.",
+						"_key": "90abe28f00580"
+					}
+				],
+				"_key": "90abe28f0058"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "You are issued a confidential identification and password to access the fleet information from rhe secure Fleetm@tic website.",
+						"_key": "6f8121105f780"
+					}
+				],
+				"_key": "6f8121105f78"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The information can be accessed anywhere you can access internet: from the office, from home, or while traveling.",
+						"_key": "ce7df74c04f90"
+					}
+				],
+				"_key": "ce7df74c04f9"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "97257d35ead80",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "97257d35ead8"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "41a9fbb5b1b10",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "41a9fbb5b1b1"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic assists in saving time and money by providing detailed reports and accurate information to operate efficiently and productively.",
+						"_key": "a7cb7f418d2c0"
+					}
+				],
+				"_key": "a7cb7f418d2c"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "bc3fff0db6000",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "bc3fff0db600"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "03d48b86f0fa0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "03d48b86f0fa"
+			}
+		],
+		"publishedAt": "2015-08-14T00:47:31.000Z",
+		"slug": {
+			"current": "fleetmatic"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "2628",
+		"title": "Section 179",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "6b1f49b0e40e",
+						"_type": "link",
+						"href": "http://www.section179.org/summary-of-the-path-act-of-2015.pdf"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Jan 1, 2016",
+						"_key": "41c5b890a14e0"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " - The \"Protecting Americans from Tax Hikes Act of 2015\" (PATH Act) was passed by both the House and Senate and signed into law on 12/18/2015. This bill expanded the Section 179 deduction limit to $500,000. Read the summary from the Ways and Means committee ",
+						"_key": "41c5b890a14e1"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"6b1f49b0e40e"
+						],
+						"text": "here",
+						"_key": "41c5b890a14e2"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ".",
+						"_key": "41c5b890a14e3"
+					}
+				],
+				"_key": "41c5b890a14e"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Section 179 Deduction:",
+						"_key": "afed13dcaeab0"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " Until further notice, Section 179 is permanent at the $500,000 level. Businesses exceeding a total of $2 million of purchases in qualifying equipment have the Section 179 deduction phase-out dollar-for-dollar and completely eliminated above $2.5 million. Additionally, the Section 179 cap will be indexed to inflation in $10,000 increments in future years.",
+						"_key": "afed13dcaeab1"
+					}
+				],
+				"_key": "afed13dcaeab"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "50% Bonus Depreciation",
+						"_key": "14ff7a0aa8e90"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " will be extended through 2019. Businesses of all sizes will be able to depreciate 50 percent of the cost of equipment acquired and put in service during 2015, 2016 and 2017. Then bonus depreciation will phase down to 40 percent in 2018 and 30 percent in 2019.",
+						"_key": "14ff7a0aa8e91"
+					}
+				],
+				"_key": "14ff7a0aa8e9"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "4b7022cc55a2",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "IMPORTANT: Section 179 for Current 2016 Tax Year (This Year)",
+						"_key": "fb9dea59abd70"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\nSection 179 can provide you with significant tax relief for this 2016 tax year, but ",
+						"_key": "fb9dea59abd71"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "equipment and software must be financed and in place by midnight December 31, 2016",
+						"_key": "fb9dea59abd72"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". Use this ",
+						"_key": "fb9dea59abd73"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong",
+							"4b7022cc55a2"
+						],
+						"text": "2016 Section 179 Calculator",
+						"_key": "fb9dea59abd74"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " to see how much the Section 179 tax deduction can save your company.",
+						"_key": "fb9dea59abd75"
+					}
+				],
+				"_key": "fb9dea59abd7"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "8b1556fa91cf0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "8b1556fa91cf"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "9e6f6ae49826",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator_2015"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The PATH ACT passed in December of 2015 was made retroactive for the 2015 tax year, making the Section 179 deduction for 2015 $500,000. In addition, the 50% Bonus Depreciation was reinstated.\n",
+						"_key": "081404c020c10"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"9e6f6ae49826"
+						],
+						"text": "Click Here for the fully updated Section 179 Calculator for tax year 2015.",
+						"_key": "081404c020c11"
+					}
+				],
+				"_key": "081404c020c1"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "25e97bfd0d540",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "25e97bfd0d54"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "http://www.section179.org/section_179_deduction.html",
+						"_key": "503d0319aeac0"
+					}
+				],
+				"_key": "503d0319aeac"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "3b6ad354fce00",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "3b6ad354fce0"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179",
+						"_key": "2bc8752d647b0"
+					}
+				],
+				"_key": "2bc8752d647b"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "5e74c6efa77d0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "5e74c6efa77d"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179",
+						"_key": "247b0d8684630"
+					}
+				],
+				"_key": "247b0d868463"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "81b533464e7a0",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "81b533464e7a"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Section 179 propertyFor purposes of this section, the term “section 179 property” means property",
+						"_key": "199f59013fc10"
+					}
+				],
+				"_key": "199f59013fc1"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "computer software (as defined in section 197 which is described in section 197, to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015,",
+						"_key": "19eda15b594f0"
+					}
+				],
+				"_key": "19eda15b594f"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "tangible property (to which section 168 applies), orwhich is section 1245 property (as defined in section 1245, and which is acquired by purchase for use in the active conduct of a trade or business.",
+						"_key": "5f3f68e084ff0"
+					}
+				],
+				"_key": "5f3f68e084ff"
+			}
+		],
+		"publishedAt": "2016-09-01T13:11:01.000Z",
+		"slug": {
+			"current": "section-179"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-inspirational"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-uncategorized"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "385356",
+		"title": "2017 CONSTRUCTION KICKOFF- RB Florida Auction",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A Hopeful 2017- RB Florida Auction",
+						"_key": "e7c0dfc4ca7f0"
+					}
+				],
+				"_key": "e7c0dfc4ca7f"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "39f2c30f9cc4",
+						"_type": "link",
+						"href": "https://www.rbauction.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Every year in sunny Orlando Florida, ",
+						"_key": "dd96f11f08ac0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"39f2c30f9cc4"
+						],
+						"text": "Ritchie Brothers ",
+						"_key": "dd96f11f08ac1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Auctioneers kicks off one of the biggest equipment auctions in the world. This year the prices were high and so was our hopes for a productive 2017. We always look forward the RB Florida Auction to get the year started off right. We enjoy getting together with our Newman Tractor Florida branch and seeing other friends in the equipment industry. Its going to be a great 2017!",
+						"_key": "dd96f11f08ac2"
+					}
+				],
+				"_key": "dd96f11f08ac"
+			}
+		],
+		"publishedAt": "2017-03-16T15:26:03.000Z",
+		"slug": {
+			"current": "rb-florida-auction"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "389598",
+		"title": "The All New Newmantractor",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The All New Newmantractor.com",
+						"_key": "74883e14da630"
+					}
+				],
+				"_key": "74883e14da63"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "We know your busy. That's why we've fully redesigned newmantractor.com to help you find the machine you are looking for, faster and more effectively. With ",
+						"_key": "e60d2ec877060"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "real-time, on the fly, machine filters",
+						"_key": "e60d2ec877061"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", ",
+						"_key": "e60d2ec877062"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "one click quotes",
+						"_key": "e60d2ec877063"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", and",
+						"_key": "e60d2ec877064"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": " photo email options",
+						"_key": "e60d2ec877065"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", we've given our best, to help you get what you need. So you can get back in the dirt & doing what you do best.",
+						"_key": "e60d2ec877066"
+					}
+				],
+				"_key": "e60d2ec87706"
+			}
+		],
+		"publishedAt": "2017-05-25T13:30:02.000Z",
+		"slug": {
+			"current": "the-all-new-newmantractor"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "401485",
+		"title": "2017 ICUEE Louisville Kentucky Expo",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "c143db1f1633",
+						"_type": "link",
+						"href": "http://icuee.com/news-releases/news/october-2017/new-and-noteworthy-whats-next-at-icuee-2017/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The ",
+						"_key": "ed6eac6d1f4f0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"c143db1f1633"
+						],
+						"text": "2017 International Construction and Utility Equipment Exposition (ICUEE) Exposition",
+						"_key": "ed6eac6d1f4f1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " kicked off Tuesday, October 3 with the official Kentucky Derby bugler opening the show to a full day of exhibits, education and networking. The event was hosted for 3 days at the Kentucky Exposition Center in Louisville, Kentucky, featuring 28 acres of the newest product innovations from the leading industry manufacturers and suppliers, cutting-edge industry education, and hands-on equipment test drives and interactive product demonstrations.",
+						"_key": "ed6eac6d1f4f2"
+					}
+				],
+				"_key": "ed6eac6d1f4f"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "bb90d2ae4ab6",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Every year, Newman Tractor attends the ICUEE Expo to build relationships with new partners and collaborate with current partners, such as ",
+						"_key": "364373b2897e0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Morooka, Sany and Bell",
+						"_key": "364373b2897e1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". Enjoy our video, featuring ",
+						"_key": "364373b2897e2"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"bb90d2ae4ab6"
+						],
+						"text": "Newman Tractor's",
+						"_key": "364373b2897e3"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " very own ",
+						"_key": "364373b2897e4"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Meredith Newman",
+						"_key": "364373b2897e5"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " as she covers the expo highlights, interviews industry leaders and gets hands on with the latest advancements in construction equipment technology.",
+						"_key": "364373b2897e6"
+					}
+				],
+				"_key": "364373b2897e"
+			}
+		],
+		"publishedAt": "2017-10-26T15:52:37.000Z",
+		"slug": {
+			"current": "2017-icuee-expo-kentucky"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "406621",
+		"title": "One of the largest heavy equipment paint booth's in the U.S.",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"New Construction Equipment Paint Booth and Shop Location in Walton, KY\n\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Introducing Newman Tractor's newest facility in Walton, Kentucky. Residing on 10 acres of property, our 23,000 foot shop space features a 70x25x25 state-of-the-art paint booth that can handle a variety of heavy construction equipment, making it one of the largest paint booths in the U.S. The additional garage allows our skilled mechanics to assess each piece of equipment individually to perform component rebuilds, run machine diagnostics, weld, fabricate and maintenance our huge inventory of heavy equipment. As Newman Tractor grows, we expand to meet the needs of our customers as well as create new jobs for hardworking Americans. If you're in need of used or new construction equipment for sale or rent, give us a call today at 859-485-8500.",
+						"_key": "9df05d19ca780"
+					}
+				],
+				"_key": "9df05d19ca78"
+			}
+		],
+		"publishedAt": "2017-11-10T19:00:55.000Z",
+		"slug": {
+			"current": "2017-icuee-expo-kentucky-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "407828",
+		"title": "Rebuilding the leaking dam in Lake White State Park, Ohio",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor partners with Senesis & Bell America to rebuild the mile long leaking dam in Lake White state park in Ohio. Check out the highlights of these powerful Bell trucks, like the incredible fuel effiency and i-Tip technology (one button dump).",
+						"_key": "bf8a257de2790"
+					}
+				],
+				"_key": "bf8a257de279"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "21eaf404862f",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/work/bell-trucks-article"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "As an authorized Bell dealership, Newman Tractor can not only help you finance a new Bell truck, but we also service them as well. If you need parts, repairs or have any questions about your Bell machine, don't hesitate to call us at 859-485-8500. For more information on our Bell articulated dump trucks for sale, please visit ",
+						"_key": "990993d75fb20"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"21eaf404862f"
+						],
+						"text": "https://www.newmantractor.com/work/bell-trucks-article",
+						"_key": "990993d75fb21"
+					}
+				],
+				"_key": "990993d75fb2"
+			}
+		],
+		"publishedAt": "2017-12-01T19:12:40.000Z",
+		"slug": {
+			"current": "lake-white-state-park-ohio-dam-rebuild"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "415299",
+		"title": "Newman Tractor at IEDA and DCA events 2018",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "ddf22a937668",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor goes full throttle in 2018 by participating at two of the largest construction industry events across America. Staying on top of the latest brands, trends and technology - while collaborating with industry leaders - is one of the reasons Newman Tractor continues to be a leader in the ",
+						"_key": "177e6fb87d5c0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"ddf22a937668"
+						],
+						"text": "construction equipment sales and rental",
+						"_key": "177e6fb87d5c1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " business for over 40 years.",
+						"_key": "177e6fb87d5c2"
+					}
+				],
+				"_key": "177e6fb87d5c"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "652991c685e2",
+						"_type": "link",
+						"href": "http://iedagroup.com/"
+					},
+					{
+						"_key": "7737a523eabb",
+						"_type": "link",
+						"href": "https://www.rbauction.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "IEDA Expo in Florida",
+						"_key": "d53c4c0fb2160"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\nThe ",
+						"_key": "d53c4c0fb2161"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"652991c685e2"
+						],
+						"text": "Independent Equipment Dealers Association",
+						"_key": "d53c4c0fb2162"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " (IEDA) is a self-regulating body of independent dealers who pride themselves on being reputable, highly qualified professionals in the used equipment market worldwide. On the opening day of the ",
+						"_key": "d53c4c0fb2163"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"7737a523eabb"
+						],
+						"text": "2018 Ritchie Bros auction",
+						"_key": "d53c4c0fb2164"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", Rick Newman spoke at the Omni hotel in Orlando, Florida for the IEDA Annual Meeting & Vendor Expo. The day was packed with outstanding presenters who covered topics on leadership, marketing and Tier 4. The round table discussions gave members an opportunity to discuss issues facing their business and the industry. At the events annual golf tournament, Team Newman Tractor brought home the gold for the 4th consecutive year!",
+						"_key": "d53c4c0fb2165"
+					}
+				],
+				"_key": "d53c4c0fb216"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "479c5456f20b",
+						"_type": "link",
+						"href": "http://www.dcaweb.org/"
+					},
+					{
+						"_key": "65775f71278c",
+						"_type": "link",
+						"href": "http://mikerowe.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "DCA 57th Annual Convention in California",
+						"_key": "925ed50c5bfd0"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n",
+						"_key": "925ed50c5bfd1"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"479c5456f20b"
+						],
+						"text": "Distribution Contractors Association",
+						"_key": "925ed50c5bfd2"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " (DCA) is a non-profit, professional trade organization formed in 1961 to facilitate the exchange of information related to the construction and maintenance of gas distribution pipeline systems throughout the United States. Members over the years have evolved into turnkey utility contractors that operate at all levels of utility construction and directional drilling. DCA serves as a link between its members, government agencies, organized labor and other industry organizations. Newman Tractor participated at the 57th Annual Convention this year held at the Monarch Beach Resort, in Dana Point, CA. Highlights at the event included a silent auction, 3 mile charity walk and keynote speaker ",
+						"_key": "925ed50c5bfd3"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"65775f71278c"
+						],
+						"text": "Mike Rowe",
+						"_key": "925ed50c5bfd4"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "!",
+						"_key": "925ed50c5bfd5"
+					}
+				],
+				"_key": "925ed50c5bfd"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"_key": "d7031c3014110",
+						"text": "",
+						"marks": []
+					}
+				],
+				"_key": "d7031c301411"
+			}
+		],
+		"publishedAt": "2018-03-09T20:03:10.000Z",
+		"slug": {
+			"current": "ieda-dca-events-2018"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "415317",
+		"title": "2018 Ritchie Bros. Auction in Orlando, Florida",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "af310e0590d8",
+						"_type": "link",
+						"href": "https://www.rbauction.com"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Ritchie Bros. Auction 2018 - Highlights from Newman Tractor\n\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Newman Tractor goes behind the scenes at the world's largest auction in history! The 13,000 pieces of construction equipment that rolled into the 2018 ",
+						"_key": "fa25b48717780"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"af310e0590d8"
+						],
+						"text": "Richie Bros. auction",
+						"_key": "fa25b48717781"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " in Orlando, Florida this February shattered all previous world records. Join us and get a feel for what it's like to bid and sell at this epic event!",
+						"_key": "fa25b48717782"
+					}
+				],
+				"_key": "fa25b4871778"
+			}
+		],
+		"publishedAt": "2018-03-12T13:04:17.000Z",
+		"slug": {
+			"current": "2018-ritchie-brothers-auction"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "415742",
+		"title": "Bauma Conexpo Africa 2018",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "bce355edce15",
+						"_type": "link",
+						"href": "https://www.bellequipment.com/about-us/latest-news/bell-to-welcome-new-products-and-partners-at-bca-2018"
+					},
+					{
+						"_key": "194c74d5d75a",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/bell-trucks"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Newman Tractor joins Bell in welcoming new products and partners at BCA 2018\n\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Newman Tractor joins ",
+						"_key": "95e55de5e4670"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"bce355edce15"
+						],
+						"text": "Bell Equipment",
+						"_key": "95e55de5e4671"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " - southern Africa’s largest construction equipment manufacturer - at the Bauma Conexpo Africa 2018. If you're interested in buying or renting a ",
+						"_key": "95e55de5e4672"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"194c74d5d75a"
+						],
+						"text": "Bell articulated dump truck",
+						"_key": "95e55de5e4673"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " please give us a call at ",
+						"_key": "95e55de5e4674"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "859-485-8500",
+						"_key": "95e55de5e4675"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ".",
+						"_key": "95e55de5e4676"
+					}
+				],
+				"_key": "95e55de5e467"
+			}
+		],
+		"publishedAt": "2018-03-26T18:13:45.000Z",
+		"slug": {
+			"current": "newman-tractor-bauma-conexpo-africa-2018"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "424182",
+		"title": "Repairing the brake assembly on a Bell B30E ADT",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "f9743da786f6",
+						"_type": "link",
+						"href": "http://belltrucksamerica.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"How to STOP 175,000 pounds of STEEL and ROCK\n\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Nate and Double Clutch tear down and repair a massive brake assembly on a B30E ",
+						"_key": "b02f2256e8e20"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"f9743da786f6"
+						],
+						"text": "Bell truck",
+						"_key": "b02f2256e8e21"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " in this episode of DECONSTRUCTION at Newman Tractor.",
+						"_key": "b02f2256e8e22"
+					}
+				],
+				"_key": "b02f2256e8e2"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "f484c083aefd",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/bell-trucks"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "If you're interested in buying or renting a ",
+						"_key": "9b569d5931a20"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"f484c083aefd"
+						],
+						"text": "Bell articulated dump truck",
+						"_key": "9b569d5931a21"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " please give us a call at ",
+						"_key": "9b569d5931a22"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "859-485-8500",
+						"_key": "9b569d5931a23"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ".",
+						"_key": "9b569d5931a24"
+					}
+				],
+				"_key": "9b569d5931a2"
+			}
+		],
+		"publishedAt": "2018-05-22T17:19:54.000Z",
+		"slug": {
+			"current": "bell-truck-b30e-brake-repair"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "429054",
+		"title": "Newman Tractor mechanics featured in CED Magazine",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "df91ca3b9cec",
+						"_type": "link",
+						"href": "http://www.cedmag.com/magazine-archives/2018-june/technicians-green-and-seasoned"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Nate and Jimmy talk about their careers as Newman Tractor mechanics\n\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Construction Equipment Distribution magazine spoke with two of our top construction equipment technicians at Newman Tractor this month and featured them in their June 2018 edition. To read more about how Nate and Jimmy got their start and why they love their job, head on over to ",
+						"_key": "66f4fe4c2a4a0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"df91ca3b9cec"
+						],
+						"text": "CEDMAG.com",
+						"_key": "66f4fe4c2a4a1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". If you are a skilled and passionate mechanic looking for a solid job in the construction equipment industry, please contact Newman Tractor at 859-485-8500.",
+						"_key": "66f4fe4c2a4a2"
+					}
+				],
+				"_key": "66f4fe4c2a4a"
+			}
+		],
+		"publishedAt": "2018-06-15T14:05:38.000Z",
+		"slug": {
+			"current": "ced-magazine-newman-tractor"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "434626",
+		"title": "Construction equipment rental quote tool at NewmanTractor.com",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "a30175da6a06",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/rental"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor's new web-based ",
+						"_key": "8e13d0a1f3af0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"a30175da6a06"
+						],
+						"text": "construction equipment rental",
+						"_key": "8e13d0a1f3af1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " quote tool makes the rental process quicker and easier without needing to install or download software or an app, according to the company.",
+						"_key": "8e13d0a1f3af2"
+					}
+				],
+				"_key": "8e13d0a1f3af"
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The new site provides access to Newman Tractor's entire rental fleet and is designed for easy, intuitive operation. Site users can select machine types and number of units required and provide contact information for a quick response.",
+						"_key": "d5b3fdb889f60"
+					}
+				],
+				"_key": "d5b3fdb889f6"
+			}
+		],
+		"publishedAt": "2018-08-28T19:37:53.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "443580",
+		"title": "DECONSTRUCTION Season 2 airs every Tuesday on Facebook and YouTube!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "DECONSTRUCTION is BACK! Everyone's favorite construction equipment mechanics are back for Season 2 of DECONSTRUCTION! New episodes start airing this Tuesday, November 13th 2018.",
+						"_key": "3689c5a9ef4a0"
+					}
+				],
+				"_key": "3689c5a9ef4a"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "5ae5ca794263",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "0dc9dfc6fefb",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "a20fd3496e9e0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"5ae5ca794263"
+						],
+						"text": "Facebook",
+						"_key": "a20fd3496e9e1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "a20fd3496e9e2"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"0dc9dfc6fefb"
+						],
+						"text": "YouTube",
+						"_key": "a20fd3496e9e3"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "a20fd3496e9e4"
+					}
+				],
+				"_key": "a20fd3496e9e"
+			}
+		],
+		"publishedAt": "2018-11-09T19:40:48.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "443825",
+		"title": "You're gonna LOVE the MAKEOVER on this 1978 dozer we're sending to Africa!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "On this episode of DeConstruction SEASON 2, Master Provisions, Vennefron and Newman Tractor team up to transform this 1978 D6 dozer into a piece of art before we ship it to Togo, Africa. Togo is one of the poorest countries in the world and will be using the dozer for farming 85 acres to maintain their corn, soybeans, pineapples and more.",
+						"_key": "eaf4becf7b960"
+					}
+				],
+				"_key": "eaf4becf7b96"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "71694cc4aab1",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "d77720275ba3",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "3db84596a0eb0"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"71694cc4aab1"
+						],
+						"text": "Facebook",
+						"_key": "3db84596a0eb1"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "3db84596a0eb2"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"d77720275ba3"
+						],
+						"text": "YouTube",
+						"_key": "3db84596a0eb3"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "3db84596a0eb4"
+					}
+				],
+				"_key": "3db84596a0eb"
+			}
+		],
+		"publishedAt": "2018-11-13T17:20:05.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online-2-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "444821",
+		"title": "Lifting a MASSIVE dump truck to replace a BENT UP drag link!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Josh and Dustin pull and replace the suspension on a John Deere 300D articulated dump truck on this episode of DECONSTRUCTION.",
+						"_key": "3eccd58c94aa0"
+					}
+				],
+				"_key": "3eccd58c94aa"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "28f4b12a84fc",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "a33edbf7e546",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "18f92d36b6570"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"28f4b12a84fc"
+						],
+						"text": "Facebook",
+						"_key": "18f92d36b6571"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "18f92d36b6572"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"a33edbf7e546"
+						],
+						"text": "YouTube",
+						"_key": "18f92d36b6573"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "18f92d36b6574"
+					}
+				],
+				"_key": "18f92d36b657"
+			}
+		],
+		"publishedAt": "2018-11-27T18:52:13.000Z",
+		"slug": {
+			"current": "deere-suspension-drag-link-replacement"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "445255",
+		"title": "Trade secrets on REMOVING spray paint with NO surface damage",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Forkliff shares his trade secret on how to remove spray paint (or over-spray) off construction equipment without damaging the body paint on this episode of DECONSTRUCTION.",
+						"_key": "abd914481a220"
+					}
+				],
+				"_key": "abd914481a22"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "32a5a877636a",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "39dea6d0add0",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "0e129de4da030"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"32a5a877636a"
+						],
+						"text": "Facebook",
+						"_key": "0e129de4da031"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "0e129de4da032"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"39dea6d0add0"
+						],
+						"text": "YouTube",
+						"_key": "0e129de4da033"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "0e129de4da034"
+					}
+				],
+				"_key": "0e129de4da03"
+			}
+		],
+		"publishedAt": "2018-12-04T13:57:45.000Z",
+		"slug": {
+			"current": "removing-spray-paint"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "445704",
+		"title": "BLASTING OFF corrosion with a NEEDLE scaler",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Kickin' Kenny shows us how to use a needle scaler to shred years of corrosion off the undercarriage of a water truck on this episode of DECONSTRUCTION.",
+						"_key": "ca16f5789d7d0"
+					}
+				],
+				"_key": "ca16f5789d7d"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "6334f3dc8e01",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "62e8adf93ee6",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "180c452ed4240"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"6334f3dc8e01"
+						],
+						"text": "Facebook",
+						"_key": "180c452ed4241"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "180c452ed4242"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"62e8adf93ee6"
+						],
+						"text": "YouTube",
+						"_key": "180c452ed4243"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "180c452ed4244"
+					}
+				],
+				"_key": "180c452ed424"
+			}
+		],
+		"publishedAt": "2018-12-11T13:44:29.000Z",
+		"slug": {
+			"current": "needle-scaler"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "446183",
+		"title": "RIPPING out a dump bed and WELDING on a personnel carrier",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Sparks fly when Wyatt and Tim only have ONE DAY to cut, grind and weld a personnel carrier onto a 1500 Morooka on this episode of DECONSTRUCTION.",
+						"_key": "6b137ee1e0140"
+					}
+				],
+				"_key": "6b137ee1e014"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "d1afa9bab786",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "6b9ccefcf239",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "85f5595937e90"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"d1afa9bab786"
+						],
+						"text": "Facebook",
+						"_key": "85f5595937e91"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "85f5595937e92"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"6b9ccefcf239"
+						],
+						"text": "YouTube",
+						"_key": "85f5595937e93"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "85f5595937e94"
+					}
+				],
+				"_key": "85f5595937e9"
+			}
+		],
+		"publishedAt": "2018-12-18T21:07:14.000Z",
+		"slug": {
+			"current": "morooka-personnel-carrier-conversion"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	},
+	{
+		"_type": "post",
+		"_id": "447085",
+		"title": "HOW TO inspect an engine failure on an AGRICULTURAL GIANT",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "In part 1 of this 4 part series, Nate disassembles, cleans and inspects a CASE IH STX375 tractor engine on this episode of DECONSTRUCTION.",
+						"_key": "d7872a847a500"
+					}
+				],
+				"_key": "d7872a847a50"
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "5acd95393a7f",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "fecc7c62fc0e",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our ",
+						"_key": "122f19e1d4650"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"5acd95393a7f"
+						],
+						"text": "Facebook",
+						"_key": "122f19e1d4651"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and ",
+						"_key": "122f19e1d4652"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"fecc7c62fc0e"
+						],
+						"text": "YouTube",
+						"_key": "122f19e1d4653"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes.",
+						"_key": "122f19e1d4654"
+					}
+				],
+				"_key": "122f19e1d465"
+			}
+		],
+		"publishedAt": "2018-12-31T20:39:23.000Z",
+		"slug": {
+			"current": "case-ih-stx375-tractor-engine-repair-part-1"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {}
+	}
+]

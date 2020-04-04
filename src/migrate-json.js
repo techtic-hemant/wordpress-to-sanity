@@ -6,6 +6,7 @@ const parseDate = require('./lib/parseDate')
 const parseBody = require('./lib/parseBody')
 //const slugify = require('slugify');
 const ndjson = require('ndjson')
+const PHP = require('./lib/PHP')
 
 function generateAuthorId(id) {
     return `author-${id}`
@@ -92,7 +93,7 @@ async function buildJSON(json) {
 
     if(channel.item && channel.item.length > 0){
       posts = channel.item.map((item)=>{
-        const { title, category, description, post_name } = item;
+        const { title, category, description, post_name, post_id } = item;
         let body;
         try {
           body = parseBody(item.encoded.map((desc) => desc.__cdata).join("\n"));
@@ -101,12 +102,36 @@ async function buildJSON(json) {
           body = ""
         }
         let user = users.find(user => user.slug.current ===  slugify( item.creator.__cdata, { lower: true }));
+
+        let gallery_meta = item.postmeta.filter((meta)=>{
+          return meta.meta_key.__cdata == '_pgl_post_gallery';
+        });
+
+        let cover = {};
+        if(gallery_meta.length > 0){
+          gallery_images = gallery_meta[0].meta_value.__cdata;
+          gallery_images = PHP.parse(gallery_images);
+
+          gallery_images = Object.values(gallery_images);
+
+          if(gallery_images.length > 0){
+            cover = {
+              _type: "image",
+              _sanityAsset: `image@${gallery_images[0]}`,
+            }
+          }
+
+        }
+        
+
+
         return {
             _type: 'post',
-            _id: post_name.__cdata,
+            _id: post_id.__text,
             title,
             //description,
             body,
+         //   cover,
             publishedAt: parseDate(item),
             slug: {
               current: post_name.__cdata
@@ -114,6 +139,18 @@ async function buildJSON(json) {
             categories: category.filter((cat)=>{
               return cat._domain === 'category'
             }).map((cat)=>{
+
+              found = categories.filter((category)=>{
+                return generateCategoryId(cat._nicename) == category._id
+              })
+              if(found.length == 0){
+                categories.push({
+                      _type: 'category',
+                      _id: generateCategoryId(cat._nicename),
+                      title: cat.__cdata
+                  })
+              }
+
               return {
                 _type: 'reference',
                 _ref: generateCategoryId(cat._nicename)
@@ -127,9 +164,12 @@ async function buildJSON(json) {
       })
     }
 
+
+    console.log(categories);
+
     const output = [
         /* meta, */
-        ...users, ...posts, ...categories
+         ...categories, ...users, ...posts
     ]
     return output
 
@@ -137,15 +177,15 @@ async function buildJSON(json) {
 async function main() {
 
   //['data/post-events.json', 'data/post-news.json', 'data/post-work.json'].forEach(async filename => {
-   ['data/post-work.json'].forEach(async filename => {
-    const json = await getJsonFromFile(__dirname + "/" + filename);
+   ['post-events.json', 'post-news.json', 'post-work.json'].forEach(async filename => {
+    const json = await getJsonFromFile(__dirname + "/data/" + filename);
     const output = await buildJSON(json);
 
     let data = JSON.stringify(output, null, '\t');
 
     // console.log("File saved : " + filename + ".json");
     // fs.writeFileSync(__dirname + "/" + filename+".json" , data);
-    fs.writeFileSync(__dirname + "/" + filename + ".json", data);
+    fs.writeFileSync(__dirname + "/data/" + filename + ".json", data);
     const serialize = ndjson.serialize();
 
     var ndjsonData = [];
@@ -154,7 +194,7 @@ async function main() {
     })
 
     serialize.on('end', (end) => {
-      fs.writeFileSync(__dirname + "/" + filename + ".ndjson", ndjsonData.join(""));
+      fs.writeFileSync(__dirname + "/data/ndjson/" + filename + ".ndjson", ndjsonData.join(""));
       console.log("File saved : " + filename + ".ndjson");
     })
 
