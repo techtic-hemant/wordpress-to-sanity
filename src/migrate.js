@@ -116,7 +116,7 @@ async function buildJSONfromStream (stream) {
 }
 
 async function main () {
-  const filename = 'data/post-events.xml';
+  const filename = 'data/posts.xml';
   console.log(process.cwd() + "/src/"+filename);
   const stream = await readFile0(process.cwd() + "/src/"+filename)
   const output = await buildJSONfromStream(stream)
