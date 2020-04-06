@@ -1,0 +1,1517 @@
+[
+	{
+		"_type": "category",
+		"_id": "category-work",
+		"title": "Work"
+	},
+	{
+		"_type": "category",
+		"_id": "category-inspirational",
+		"title": "Inspirational"
+	},
+	{
+		"_type": "category",
+		"_id": "category-events",
+		"title": "Events"
+	},
+	{
+		"_type": "category",
+		"_id": "category-news",
+		"title": "News"
+	},
+	{
+		"_type": "category",
+		"_id": "category-featured",
+		"title": "Featured"
+	},
+	{
+		"_type": "category",
+		"_id": "category-uncategorized",
+		"title": "Uncategorized"
+	},
+	{
+		"_type": "author",
+		"_id": "author-10",
+		"name": "Christopher Hunt",
+		"slug": {
+			"current": "developer"
+		},
+		"email": "chunt@dwsnow.com"
+	},
+	{
+		"_type": "author",
+		"_id": "author-3",
+		"name": "Justin Newman",
+		"slug": {
+			"current": "justin-newman"
+		},
+		"email": "justin@newmantractor.com"
+	},
+	{
+		"_type": "post",
+		"_id": "286",
+		"title": "TEMPLATE - Gallery Post Type",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Hello"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " wrote:Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h2. Heading 2"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h3. Heading 3"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Sanctus sea sed takimata ut vero voluptua."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2014-04-01T08:31:17.000Z",
+		"slug": {
+			"current": "placeholder-text-generator-of-america-for-make-benefit-glorious-nation-of-kazakhstan"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-inspirational"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-10"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "287",
+		"title": "TEMPLATE - Standard Image Post",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Hello"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " wrote:Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h2. Heading 2"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h3. Heading 3"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Sanctus sea sed takimata ut vero voluptua."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2014-04-01T08:31:55.000Z",
+		"slug": {
+			"current": "in-kazakhstan-the-favorite-hobbies-are-disco-dancing-archery-rape-and-table-tennis"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-10"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "1943",
+		"title": "Bell Fleetm@tic: The Cutting-Edge System",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "a635d0046f9a",
+						"_type": "link",
+						"href": "http://belltrucksamerica.com/"
+					},
+					{
+						"_key": "e4c56fe764af",
+						"_type": "link",
+						"href": "http://fleetmatic.bellequipment.com/ProductDetails.aspx"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\"Built smarter, to work harder.\" "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"a635d0046f9a"
+						],
+						"text": "Bell"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " has developed "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"e4c56fe764af",
+							"em"
+						],
+						"text": "the"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"e4c56fe764af"
+						],
+						"text": " cutting-edge fleet management system"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", Fleetm@tic. Carefully designed and accurately collecting data, Fleetm@tic enables customers to monitor their fleet with pole-to-pole satellite coverage. With Fleetm@tic's user-friendly technology, data collection and analysis becomes simple."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Detailed Information at Your Fingertips"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic assists you in operations by provided data to keep projects on schedule, maintain machine health, and reduce the cost of running machines."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Both machine and shift can be monitored."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The \"Driver ID\" feature will ensure that your staff take responsibility for the machine during their shift."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Driver ID identifies each operator by their start-up code."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A Shift Summary Report is calculated."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Shift Hours."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Average Fuel Consumption."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Tons Moved."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Total Cycles."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Tonnage per Cycle."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Distance Covered."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Average Speed."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic also provides many other features. Among some:"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Total Machine Hours."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fuel Level %."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fault Codes."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Service Indicators."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Overload Count."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Laden/Unladen Time."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Machine Location."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic offers different fleet packages."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "34 features in the Classic Package."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "39 features in the Premium Package."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "How Fleetm@tic Works"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic keeps you in touch with your equipment 24/7."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Position and data are transmitted by the Fleetm@tic GPS Data Transmitter/Receiver Unit."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Orbiting GPS Satellites calculate the position of the machine."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The On-board Memory Module stores machine position, production, and data."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The data is transmitted to Bell Fleetm@tic servers though the service provider's base station where it is processed into automated reports."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "You are issued a confidential identification and password to access the fleet information from rhe secure Fleetm@tic website."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The information can be accessed anywhere you can access internet: from the office, from home, or while traveling."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Fleetm@tic assists in saving time and money by providing detailed reports and accurate information to operate efficiently and productively."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2015-08-14T00:47:31.000Z",
+		"slug": {
+			"current": "fleetmatic"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "2628",
+		"title": "Section 179",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "94d807ca8423",
+						"_type": "link",
+						"href": "http://www.section179.org/summary-of-the-path-act-of-2015.pdf"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Jan 1, 2016"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " - The \"Protecting Americans from Tax Hikes Act of 2015\" (PATH Act) was passed by both the House and Senate and signed into law on 12/18/2015. This bill expanded the Section 179 deduction limit to $500,000. Read the summary from the Ways and Means committee "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"94d807ca8423"
+						],
+						"text": "here"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Section 179 Deduction:"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " Until further notice, Section 179 is permanent at the $500,000 level. Businesses exceeding a total of $2 million of purchases in qualifying equipment have the Section 179 deduction phase-out dollar-for-dollar and completely eliminated above $2.5 million. Additionally, the Section 179 cap will be indexed to inflation in $10,000 increments in future years."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "50% Bonus Depreciation"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " will be extended through 2019. Businesses of all sizes will be able to depreciate 50 percent of the cost of equipment acquired and put in service during 2015, 2016 and 2017. Then bonus depreciation will phase down to 40 percent in 2018 and 30 percent in 2019."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "ee0ee84e77a0",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "IMPORTANT: Section 179 for Current 2016 Tax Year (This Year)"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Section 179 can provide you with significant tax relief for this 2016 tax year, but "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "equipment and software must be financed and in place by midnight December 31, 2016"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". Use this "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong",
+							"ee0ee84e77a0"
+						],
+						"text": "2016 Section 179 Calculator"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " to see how much the Section 179 tax deduction can save your company."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "9a957b5429da",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator_2015"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The PATH ACT passed in December of 2015 was made retroactive for the 2015 tax year, making the Section 179 deduction for 2015 $500,000. In addition, the 50% Bonus Depreciation was reinstated."
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"9a957b5429da"
+						],
+						"text": "Click Here for the fully updated Section 179 Calculator for tax year 2015."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "http://www.section179.org/section_179_deduction.html"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Section 179 propertyFor purposes of this section, the term “section 179 property” means property"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "computer software (as defined in section 197 which is described in section 197, to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015,"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "tangible property (to which section 168 applies), orwhich is section 1245 property (as defined in section 1245, and which is acquired by purchase for use in the active conduct of a trade or business."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2016-09-01T13:11:01.000Z",
+		"slug": {
+			"current": "section-179"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-inspirational"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-uncategorized"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "389341",
+		"title": "Bell B45E Training 101",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "In this Bell Trucks training tutorial, Newman Tractor's Matt Hall takes us through the ins and outs of the all new Bell B45E articulated dump truck. Covering everything from pre trip inspection, controls and basic functionality, Matt explains why the newest truck from the Bell line stands out from the competition."
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/214497045",
+		"publishedAt": "2017-05-17T20:15:12.000Z",
+		"slug": {
+			"current": "bell-b45e"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "401642",
+		"title": "On Site: H2O Construction/UPike",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "H2O Construction's Steve Lockhart is with Marty Malloy at the UPike site talking about the performance of Newman Tractor's new Sany Excavators and Okada Hammers."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "UPIKE's New Building"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "865e97968548",
+						"_type": "link",
+						"href": "http://www.upike.edu/News/Campus/UPIKE-announces-Kentucky-College-of-Optometry"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "In 2014, University of Pikeville unveiled "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"865e97968548"
+						],
+						"text": "their exciting plans"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " for the new Kentucky College of Optometry. The UPIKE will be the 22nd school in the country to have a college of optometry. The Health Professions Education Building will house the Kentucky College of Optometry with its 108,000 square feet. But in order for the new building to fit in, 50,000 cubic yards of rock and dirt need to be moved."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_sanityAsset": "image@http://www.newmantractor.com/wp-content/uploads/2016/08/H20-sany-jobsite.jpg",
+						"_type": "image"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "H2O Construction Busting Through Rock"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "H2O Construction has been taking on the biggest construction jobs in their region since 1983. Their newest task is working on making the way for UPIKE's new building and busting through 80 feet of rock. And they have partnered with Newman Tractor to help get through the rock wall."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor has recently became a dealer of Sany Excavators and Okada Hammers. And these tough conditions, as Marty Malloy puts it, are a \"pretty good test\" for the durability of the Sany Excavators and Okada Hammers."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Steve Lockhart of H2O Construction is gratified by the rugged performances of the Sany Excavators and Okada Hammers. They have been going non-stop for the past 2 months, working 60-70 hours a week. Lockhart says they are moving \"a lot of rock in a short time.\""
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_sanityAsset": "image@http://www.newmantractor.com/wp-content/uploads/2015/10/sany-hammer.jpg",
+						"_type": "image"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "University of Pikeville's new Health Professions Education Building is scheduled to be complete in Fall 2016."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "c14555d37372",
+						"_type": "link",
+						"href": "http://www.upike.edu/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A big thanks to Steve Lockhart, H2O Construction Company of Pikeville, and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"c14555d37372"
+						],
+						"text": "UPike"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/140797609",
+		"publishedAt": "2017-10-23T18:25:30.000Z",
+		"slug": {
+			"current": "h2o-construction-upike-site"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	}
+]

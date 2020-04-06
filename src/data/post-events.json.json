@@ -1,0 +1,2352 @@
+[
+	{
+		"_type": "category",
+		"_id": "category-events",
+		"title": "Events"
+	},
+	{
+		"_type": "category",
+		"_id": "category-work",
+		"title": "Work"
+	},
+	{
+		"_type": "category",
+		"_id": "category-featured",
+		"title": "Featured"
+	},
+	{
+		"_type": "category",
+		"_id": "category-inspirational",
+		"title": "Inspirational"
+	},
+	{
+		"_type": "category",
+		"_id": "category-news",
+		"title": "News"
+	},
+	{
+		"_type": "category",
+		"_id": "category-uncategorized",
+		"title": "Uncategorized"
+	},
+	{
+		"_type": "author",
+		"_id": "author-10",
+		"name": "Christopher Hunt",
+		"slug": {
+			"current": "developer"
+		},
+		"email": "chunt@dwsnow.com"
+	},
+	{
+		"_type": "author",
+		"_id": "author-3",
+		"name": "Justin Newman",
+		"slug": {
+			"current": "justin-newman"
+		},
+		"email": "justin@newmantractor.com"
+	},
+	{
+		"_type": "post",
+		"_id": "287",
+		"title": "TEMPLATE - Standard Image Post",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Hello"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " wrote:Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h2. Heading 2"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h3. Heading 3"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Sanctus sea sed takimata ut vero voluptua."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2014-04-01T08:31:55.000Z",
+		"slug": {
+			"current": "in-kazakhstan-the-favorite-hobbies-are-disco-dancing-archery-rape-and-table-tennis"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-10"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "288",
+		"title": "TEMPLATE - Quote Example",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Hello"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " wrote:Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"level": 1,
+				"listItem": "bullet",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h2. Heading 2"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h3",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "h3. Heading 3"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Sanctus sea sed takimata ut vero voluptua."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2014-04-01T08:32:56.000Z",
+		"slug": {
+			"current": "america-national-sport-is-called-baseballs-it-very-similar-to-our-sport-shurik-where-we-take-dogs-shoot-them-in-a-field-and-then-have-a-party"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-10"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "2628",
+		"title": "Section 179",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "bf030c99102d",
+						"_type": "link",
+						"href": "http://www.section179.org/summary-of-the-path-act-of-2015.pdf"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Jan 1, 2016"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " - The \"Protecting Americans from Tax Hikes Act of 2015\" (PATH Act) was passed by both the House and Senate and signed into law on 12/18/2015. This bill expanded the Section 179 deduction limit to $500,000. Read the summary from the Ways and Means committee "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"bf030c99102d"
+						],
+						"text": "here"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Section 179 Deduction:"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " Until further notice, Section 179 is permanent at the $500,000 level. Businesses exceeding a total of $2 million of purchases in qualifying equipment have the Section 179 deduction phase-out dollar-for-dollar and completely eliminated above $2.5 million. Additionally, the Section 179 cap will be indexed to inflation in $10,000 increments in future years."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "50% Bonus Depreciation"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " will be extended through 2019. Businesses of all sizes will be able to depreciate 50 percent of the cost of equipment acquired and put in service during 2015, 2016 and 2017. Then bonus depreciation will phase down to 40 percent in 2018 and 30 percent in 2019."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "d519ab684f91",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "IMPORTANT: Section 179 for Current 2016 Tax Year (This Year)"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Section 179 can provide you with significant tax relief for this 2016 tax year, but "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "equipment and software must be financed and in place by midnight December 31, 2016"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". Use this "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong",
+							"d519ab684f91"
+						],
+						"text": "2016 Section 179 Calculator"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " to see how much the Section 179 tax deduction can save your company."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "1aa3b5517f18",
+						"_type": "link",
+						"href": "http://www.crestcapital.com/tax_deduction_calculator_2015"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The PATH ACT passed in December of 2015 was made retroactive for the 2015 tax year, making the Section 179 deduction for 2015 $500,000. In addition, the 50% Bonus Depreciation was reinstated."
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"1aa3b5517f18"
+						],
+						"text": "Click Here for the fully updated Section 179 Calculator for tax year 2015."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "http://www.section179.org/section_179_deduction.html"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "https://www.law.cornell.edu/uscode/text/26/179"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Section 179 propertyFor purposes of this section, the term “section 179 property” means property"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "computer software (as defined in section 197 which is described in section 197, to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015,"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "tangible property (to which section 168 applies), orwhich is section 1245 property (as defined in section 1245, and which is acquired by purchase for use in the active conduct of a trade or business."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2016-09-01T13:11:01.000Z",
+		"slug": {
+			"current": "section-179"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-inspirational"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-uncategorized"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "385356",
+		"title": "2017 CONSTRUCTION KICKOFF- RB Florida Auction",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A Hopeful 2017- RB Florida Auction"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "c29a9128c194",
+						"_type": "link",
+						"href": "https://www.rbauction.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Every year in sunny Orlando Florida, "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"c29a9128c194"
+						],
+						"text": "Ritchie Brothers "
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Auctioneers kicks off one of the biggest equipment auctions in the world. This year the prices were high and so was our hopes for a productive 2017. We always look forward the RB Florida Auction to get the year started off right. We enjoy getting together with our Newman Tractor Florida branch and seeing other friends in the equipment industry. Its going to be a great 2017!"
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/208557667",
+		"publishedAt": "2017-03-16T15:26:03.000Z",
+		"slug": {
+			"current": "rb-florida-auction"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "401485",
+		"title": "2017 ICUEE Louisville Kentucky Expo",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "cf4f1cc8de10",
+						"_type": "link",
+						"href": "http://icuee.com/news-releases/news/october-2017/new-and-noteworthy-whats-next-at-icuee-2017/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"cf4f1cc8de10"
+						],
+						"text": "2017 International Construction and Utility Equipment Exposition (ICUEE) Exposition"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " kicked off Tuesday, October 3 with the official Kentucky Derby bugler opening the show to a full day of exhibits, education and networking. The event was hosted for 3 days at the Kentucky Exposition Center in Louisville, Kentucky, featuring 28 acres of the newest product innovations from the leading industry manufacturers and suppliers, cutting-edge industry education, and hands-on equipment test drives and interactive product demonstrations."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "dd3ba78be427",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Every year, Newman Tractor attends the ICUEE Expo to build relationships with new partners and collaborate with current partners, such as "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "Morooka, Sany and Bell"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". Enjoy our video, featuring "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"dd3ba78be427"
+						],
+						"text": "Newman Tractor's"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " very own "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "Meredith Newman"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " as she covers the expo highlights, interviews industry leaders and gets hands on with the latest advancements in construction equipment technology."
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/239477952",
+		"publishedAt": "2017-10-26T15:52:37.000Z",
+		"slug": {
+			"current": "2017-icuee-expo-kentucky"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "401642",
+		"title": "On Site: H2O Construction/UPike",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"em"
+						],
+						"text": "H2O Construction's Steve Lockhart is with Marty Malloy at the UPike site talking about the performance of Newman Tractor's new Sany Excavators and Okada Hammers."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "UPIKE's New Building"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "f49e3e7f3a30",
+						"_type": "link",
+						"href": "http://www.upike.edu/News/Campus/UPIKE-announces-Kentucky-College-of-Optometry"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "In 2014, University of Pikeville unveiled "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"f49e3e7f3a30"
+						],
+						"text": "their exciting plans"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " for the new Kentucky College of Optometry. The UPIKE will be the 22nd school in the country to have a college of optometry. The Health Professions Education Building will house the Kentucky College of Optometry with its 108,000 square feet. But in order for the new building to fit in, 50,000 cubic yards of rock and dirt need to be moved."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_sanityAsset": "image@http://www.newmantractor.com/wp-content/uploads/2016/08/H20-sany-jobsite.jpg",
+						"_type": "image"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "h2",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "H2O Construction Busting Through Rock"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "H2O Construction has been taking on the biggest construction jobs in their region since 1983. Their newest task is working on making the way for UPIKE's new building and busting through 80 feet of rock. And they have partnered with Newman Tractor to help get through the rock wall."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor has recently became a dealer of Sany Excavators and Okada Hammers. And these tough conditions, as Marty Malloy puts it, are a \"pretty good test\" for the durability of the Sany Excavators and Okada Hammers."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Steve Lockhart of H2O Construction is gratified by the rugged performances of the Sany Excavators and Okada Hammers. They have been going non-stop for the past 2 months, working 60-70 hours a week. Lockhart says they are moving \"a lot of rock in a short time.\""
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_sanityAsset": "image@http://www.newmantractor.com/wp-content/uploads/2015/10/sany-hammer.jpg",
+						"_type": "image"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "University of Pikeville's new Health Professions Education Building is scheduled to be complete in Fall 2016."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "f07f43c9b235",
+						"_type": "link",
+						"href": "http://www.upike.edu/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "A big thanks to Steve Lockhart, H2O Construction Company of Pikeville, and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"f07f43c9b235"
+						],
+						"text": "UPike"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/140797609",
+		"publishedAt": "2017-10-23T18:25:30.000Z",
+		"slug": {
+			"current": "h2o-construction-upike-site"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-work"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "406621",
+		"title": "One of the largest heavy equipment paint booth's in the U.S.",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"New Construction Equipment Paint Booth and Shop Location in Walton, KY"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Introducing Newman Tractor's newest facility in Walton, Kentucky. Residing on 10 acres of property, our 23,000 foot shop space features a 70x25x25 state-of-the-art paint booth that can handle a variety of heavy construction equipment, making it one of the largest paint booths in the U.S. The additional garage allows our skilled mechanics to assess each piece of equipment individually to perform component rebuilds, run machine diagnostics, weld, fabricate and maintenance our huge inventory of heavy equipment. As Newman Tractor grows, we expand to meet the needs of our customers as well as create new jobs for hardworking Americans. If you're in need of used or new construction equipment for sale or rent, give us a call today at 859-485-8500."
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/188302663",
+		"publishedAt": "2017-11-10T19:00:55.000Z",
+		"slug": {
+			"current": "2017-icuee-expo-kentucky-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "407828",
+		"title": "Rebuilding the leaking dam in Lake White State Park, Ohio",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor partners with Senesis & Bell America to rebuild the mile long leaking dam in Lake White state park in Ohio. Check out the highlights of these powerful Bell trucks, like the incredible fuel effiency and i-Tip technology (one button dump)."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "4b7105a5f09f",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/work/bell-trucks-article"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "As an authorized Bell dealership, Newman Tractor can not only help you finance a new Bell truck, but we also service them as well. If you need parts, repairs or have any questions about your Bell machine, don't hesitate to call us at 859-485-8500. For more information on our Bell articulated dump trucks for sale, please visit "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"4b7105a5f09f"
+						],
+						"text": "https://www.newmantractor.com/work/bell-trucks-article"
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/178241747",
+		"publishedAt": "2017-12-01T19:12:40.000Z",
+		"slug": {
+			"current": "lake-white-state-park-ohio-dam-rebuild"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "415299",
+		"title": "Newman Tractor at IEDA and DCA events 2018",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "23b2f2451b08",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor goes full throttle in 2018 by participating at two of the largest construction industry events across America. Staying on top of the latest brands, trends and technology - while collaborating with industry leaders - is one of the reasons Newman Tractor continues to be a leader in the "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"23b2f2451b08"
+						],
+						"text": "construction equipment sales and rental"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " business for over 40 years."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "9a6a08f3d02f",
+						"_type": "link",
+						"href": "http://iedagroup.com/"
+					},
+					{
+						"_key": "6c9656dc9784",
+						"_type": "link",
+						"href": "https://www.rbauction.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "IEDA Expo in Florida"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"9a6a08f3d02f"
+						],
+						"text": "Independent Equipment Dealers Association"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " (IEDA) is a self-regulating body of independent dealers who pride themselves on being reputable, highly qualified professionals in the used equipment market worldwide. On the opening day of the "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"6c9656dc9784"
+						],
+						"text": "2018 Ritchie Bros auction"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ", Rick Newman spoke at the Omni hotel in Orlando, Florida for the IEDA Annual Meeting & Vendor Expo. The day was packed with outstanding presenters who covered topics on leadership, marketing and Tier 4. The round table discussions gave members an opportunity to discuss issues facing their business and the industry. At the events annual golf tournament, Team Newman Tractor brought home the gold for the 4th consecutive year!"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "e9180389f313",
+						"_type": "link",
+						"href": "http://www.dcaweb.org/"
+					},
+					{
+						"_key": "13f0733a592d",
+						"_type": "link",
+						"href": "http://mikerowe.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "DCA 57th Annual Convention in California"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"e9180389f313"
+						],
+						"text": "Distribution Contractors Association"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " (DCA) is a non-profit, professional trade organization formed in 1961 to facilitate the exchange of information related to the construction and maintenance of gas distribution pipeline systems throughout the United States. Members over the years have evolved into turnkey utility contractors that operate at all levels of utility construction and directional drilling. DCA serves as a link between its members, government agencies, organized labor and other industry organizations. Newman Tractor participated at the 57th Annual Convention this year held at the Monarch Beach Resort, in Dana Point, CA. Highlights at the event included a silent auction, 3 mile charity walk and keynote speaker "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"13f0733a592d"
+						],
+						"text": "Mike Rowe"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "!"
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": []
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2018-03-09T20:03:10.000Z",
+		"slug": {
+			"current": "ieda-dca-events-2018"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "415317",
+		"title": "2018 Ritchie Bros. Auction in Orlando, Florida",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "052ca124bfca",
+						"_type": "link",
+						"href": "https://www.rbauction.com"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Ritchie Bros. Auction 2018 - Highlights from Newman Tractor"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Newman Tractor goes behind the scenes at the world's largest auction in history! The 13,000 pieces of construction equipment that rolled into the 2018 "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"052ca124bfca"
+						],
+						"text": "Richie Bros. auction"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " in Orlando, Florida this February shattered all previous world records. Join us and get a feel for what it's like to bid and sell at this epic event!"
+					}
+				]
+			}
+		],
+		"video_link": "https://vimeo.com/258339612",
+		"publishedAt": "2018-03-12T13:04:17.000Z",
+		"slug": {
+			"current": "2018-ritchie-brothers-auction"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "415742",
+		"title": "Bauma Conexpo Africa 2018",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "c718e7f7b894",
+						"_type": "link",
+						"href": "https://www.bellequipment.com/about-us/latest-news/bell-to-welcome-new-products-and-partners-at-bca-2018"
+					},
+					{
+						"_key": "06424d288188",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/bell-trucks"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Newman Tractor joins Bell in welcoming new products and partners at BCA 2018"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Newman Tractor joins "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"c718e7f7b894"
+						],
+						"text": "Bell Equipment"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " - southern Africa’s largest construction equipment manufacturer - at the Bauma Conexpo Africa 2018. If you're interested in buying or renting a "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"06424d288188"
+						],
+						"text": "Bell articulated dump truck"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " please give us a call at "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "859-485-8500"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2018-03-26T18:13:45.000Z",
+		"slug": {
+			"current": "newman-tractor-bauma-conexpo-africa-2018"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "424182",
+		"title": "Repairing the brake assembly on a Bell B30E ADT",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "125ddc3e269e",
+						"_type": "link",
+						"href": "http://belltrucksamerica.com/"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"How to STOP 175,000 pounds of STEEL and ROCK"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Nate and Double Clutch tear down and repair a massive brake assembly on a B30E "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"125ddc3e269e"
+						],
+						"text": "Bell truck"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " in this episode of DECONSTRUCTION at Newman Tractor."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "063235a18bf4",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/bell-trucks"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "If you're interested in buying or renting a "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"063235a18bf4"
+						],
+						"text": "Bell articulated dump truck"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " please give us a call at "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"strong"
+						],
+						"text": "859-485-8500"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "."
+					}
+				]
+			}
+		],
+		"video_link": "https://youtu.be/69DY_2gyjSk",
+		"publishedAt": "2018-05-22T17:19:54.000Z",
+		"slug": {
+			"current": "bell-truck-b30e-brake-repair"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "429054",
+		"title": "Newman Tractor mechanics featured in CED Magazine",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "800f2bf5b03a",
+						"_type": "link",
+						"href": "http://www.cedmag.com/magazine-archives/2018-june/technicians-green-and-seasoned"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "[vc_custom_heading text=\"Nate and Jimmy talk about their careers as Newman Tractor mechanics"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\n"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "\" google_fonts=\"font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal\"]Construction Equipment Distribution magazine spoke with two of our top construction equipment technicians at Newman Tractor this month and featured them in their June 2018 edition. To read more about how Nate and Jimmy got their start and why they love their job, head on over to "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"800f2bf5b03a"
+						],
+						"text": "CEDMAG.com"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": ". If you are a skilled and passionate mechanic looking for a solid job in the construction equipment industry, please contact Newman Tractor at 859-485-8500."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2018-06-15T14:05:38.000Z",
+		"slug": {
+			"current": "ced-magazine-newman-tractor"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "434626",
+		"title": "Construction equipment rental quote tool at NewmanTractor.com",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "db6e4bed91a3",
+						"_type": "link",
+						"href": "https://www.newmantractor.com/rental"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Newman Tractor's new web-based "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"db6e4bed91a3"
+						],
+						"text": "construction equipment rental"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " quote tool makes the rental process quicker and easier without needing to install or download software or an app, according to the company."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "The new site provides access to Newman Tractor's entire rental fleet and is designed for easy, intuitive operation. Site users can select machine types and number of units required and provide contact information for a quick response."
+					}
+				]
+			}
+		],
+		"video_link": "",
+		"publishedAt": "2018-08-28T19:37:53.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "443580",
+		"title": "DECONSTRUCTION Season 2 airs every Tuesday on Facebook and YouTube!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "DECONSTRUCTION is BACK! Everyone's favorite construction equipment mechanics are back for Season 2 of DECONSTRUCTION! New episodes start airing this Tuesday, November 13th 2018."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "19cc00f5dcf7",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "b16c1c12aca7",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"19cc00f5dcf7"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"b16c1c12aca7"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=GnA6EkKiFAM",
+		"publishedAt": "2018-11-09T19:40:48.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "443825",
+		"title": "You're gonna LOVE the MAKEOVER on this 1978 dozer we're sending to Africa!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "On this episode of DeConstruction SEASON 2, Master Provisions, Vennefron and Newman Tractor team up to transform this 1978 D6 dozer into a piece of art before we ship it to Togo, Africa. Togo is one of the poorest countries in the world and will be using the dozer for farming 85 acres to maintain their corn, soybeans, pineapples and more."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "867fd86ff2d3",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "618102257f24",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"867fd86ff2d3"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"618102257f24"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=b0wo933Ofrw",
+		"publishedAt": "2018-11-13T17:20:05.000Z",
+		"slug": {
+			"current": "heavy-equipment-rental-quotes-online-2-2"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "444821",
+		"title": "Lifting a MASSIVE dump truck to replace a BENT UP drag link!",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Josh and Dustin pull and replace the suspension on a John Deere 300D articulated dump truck on this episode of DECONSTRUCTION."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "74638a9dc66c",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "084a786fbefc",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"74638a9dc66c"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"084a786fbefc"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=8-Jg89riwYs",
+		"publishedAt": "2018-11-27T18:52:13.000Z",
+		"slug": {
+			"current": "deere-suspension-drag-link-replacement"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "445255",
+		"title": "Trade secrets on REMOVING spray paint with NO surface damage",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Forkliff shares his trade secret on how to remove spray paint (or over-spray) off construction equipment without damaging the body paint on this episode of DECONSTRUCTION."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "8ff1b2c3dc30",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "46330c0e5309",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"8ff1b2c3dc30"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"46330c0e5309"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=qPGUZwyCFUs",
+		"publishedAt": "2018-12-04T13:57:45.000Z",
+		"slug": {
+			"current": "removing-spray-paint"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "445704",
+		"title": "BLASTING OFF corrosion with a NEEDLE scaler",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Kickin' Kenny shows us how to use a needle scaler to shred years of corrosion off the undercarriage of a water truck on this episode of DECONSTRUCTION."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "709812597a8d",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "9fb9bcb6d2b5",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"709812597a8d"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"9fb9bcb6d2b5"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=piLCxbZpbI4",
+		"publishedAt": "2018-12-11T13:44:29.000Z",
+		"slug": {
+			"current": "needle-scaler"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "446183",
+		"title": "RIPPING out a dump bed and WELDING on a personnel carrier",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Sparks fly when Wyatt and Tim only have ONE DAY to cut, grind and weld a personnel carrier onto a 1500 Morooka on this episode of DECONSTRUCTION."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "c0690b59d049",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "40002edc41f7",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"c0690b59d049"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"40002edc41f7"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=6Xs_WhEaSMo",
+		"publishedAt": "2018-12-18T21:07:14.000Z",
+		"slug": {
+			"current": "morooka-personnel-carrier-conversion"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	},
+	{
+		"_type": "post",
+		"_id": "447085",
+		"title": "HOW TO inspect an engine failure on an AGRICULTURAL GIANT",
+		"body": [
+			{
+				"_type": "block",
+				"markDefs": [],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "In part 1 of this 4 part series, Nate disassembles, cleans and inspects a CASE IH STX375 tractor engine on this episode of DECONSTRUCTION."
+					}
+				]
+			},
+			{
+				"_type": "block",
+				"markDefs": [
+					{
+						"_key": "26b3b4240500",
+						"_type": "link",
+						"href": "https://www.facebook.com/newmantractorllc/"
+					},
+					{
+						"_key": "a85dd6fc7d54",
+						"_type": "link",
+						"href": "https://www.youtube.com/newmantractor"
+					}
+				],
+				"style": "normal",
+				"children": [
+					{
+						"_type": "span",
+						"marks": [],
+						"text": "Please subscribe to our "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"26b3b4240500"
+						],
+						"text": "Facebook"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " and "
+					},
+					{
+						"_type": "span",
+						"marks": [
+							"a85dd6fc7d54"
+						],
+						"text": "YouTube"
+					},
+					{
+						"_type": "span",
+						"marks": [],
+						"text": " channels and be the first to see new episodes."
+					}
+				]
+			}
+		],
+		"video_link": "https://www.youtube.com/watch?v=fopKHBYpRss",
+		"publishedAt": "2018-12-31T20:39:23.000Z",
+		"slug": {
+			"current": "case-ih-stx375-tractor-engine-repair-part-1"
+		},
+		"categories": [
+			{
+				"_type": "reference",
+				"_ref": "category-events"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-featured"
+			},
+			{
+				"_type": "reference",
+				"_ref": "category-news"
+			}
+		],
+		"author": {
+			"_type": "reference",
+			"_ref": "author-3"
+		}
+	}
+]

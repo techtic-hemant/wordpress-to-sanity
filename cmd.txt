@@ -4,3 +4,7 @@ git config user.email "hemant@techtic.com"
 
 sanity dataset import ../data/post-events.json.ndjson development
 sanity dataset import ../../wordpress-to-sanity/src/data/ndjson/post-events.json.ndjson production --replace --allow-failing-assets
+
+sanity dataset import E:\Gatsby/wordpress-to-sanity/src/data/ndjson/post-events.json.ndjson production --replace --allow-failing-assets
+sanity dataset import E:\Gatsby/wordpress-to-sanity/src/data/ndjson/post-news.json.ndjson production --replace --allow-failing-assets
+sanity dataset import E:\Gatsby/wordpress-to-sanity/src/data/ndjson/post-work.json.ndjson production --replace --allow-failing-assets

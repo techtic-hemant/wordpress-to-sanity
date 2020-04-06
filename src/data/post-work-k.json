@@ -1,0 +1,355 @@
+{
+   "rss": {
+      "channel": {
+         "title": "NEWMAN TRACTOR - Heavy Equipment Sales & Rental",
+         "link": "https://www.newmantractor.com",
+         "description": "Serving the Heavy Equipment Industry since 1976!",
+         "pubDate": "Tue, 31 Mar 2020 03:32:18 +0000",
+         "language": "en-US",
+         "wxr_version": {
+            "__text": "1.2"
+         },
+         "base_site_url": {
+            "__text": "https://www.newmantractor.com"
+         },
+         "base_blog_url": {
+            "__text": "https://www.newmantractor.com"
+         },
+         "author": [
+            {
+               "author_id": {
+                  "__text": "10"
+               },
+               "author_login": {
+                  "__cdata": "developer"
+               },
+               "author_email": {
+                  "__cdata": "chunt@dwsnow.com"
+               },
+               "author_display_name": {
+                  "__cdata": "Christopher Hunt"
+               },
+               "author_first_name": {
+                  "__cdata": "Christopher"
+               },
+               "author_last_name": {
+                  "__cdata": "Hunt"
+               }
+            },
+            {
+               "author_id": {
+                  "__text": "3"
+               },
+               "author_login": {
+                  "__cdata": "Justin Newman"
+               },
+               "author_email": {
+                  "__cdata": "justin@newmantractor.com"
+               },
+               "author_display_name": {
+                  "__cdata": "Justin Newman"
+               },
+               "author_first_name": {
+                  "__cdata": "Justin"
+               },
+               "author_last_name": {
+                  "__cdata": "Newman"
+               }
+            }
+         ],
+         "category": [
+            {
+               "term_id": {
+                  "__text": "4"
+               },
+               "category_nicename": {
+                  "__cdata": "work"
+               },
+               "category_parent": {
+                  "__cdata": ""
+               },
+               "cat_name": {
+                  "__cdata": "Work"
+               }
+            }
+         ],
+         "generator": "https://wordpress.org/?v=5.3.2",
+         "item": [
+            {
+               "title": "On Site: H2O Construction/UPike",
+               "link": "https://www.newmantractor.com/events/h2o-construction-upike-site/",
+               "pubDate": "Mon, 23 Oct 2017 18:25:30 +0000",
+               "creator": {
+                  "__cdata": "Justin Newman"
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "https://www.newmantractor.com/?p=401642"
+               },
+               "description": "",
+               "encoded": [
+                  {
+                     "__cdata": "[vc_row][vc_column][vc_column_text]<em>H2O Construction's Steve Lockhart is with Marty Malloy at the UPike site talking about the performance of Newman Tractor's new Sany Excavators and Okada Hammers.</em>\n\n<hr />\n\n<h2>UPIKE's New Building</h2>\nIn 2014, University of Pikeville unveiled <a href=\"http://www.upike.edu/News/Campus/UPIKE-announces-Kentucky-College-of-Optometry\">their exciting plans</a> for the new Kentucky College of Optometry. The UPIKE will be the 22nd school in the country to have a college of optometry. The Health Professions Education Building will house the Kentucky College of Optometry with its 108,000 square feet. But in order for the new building to fit in, 50,000 cubic yards of rock and dirt need to be moved.\n\n<a href=\"http://www.newmantractor.com/wp-content/uploads/2016/08/H20-sany-jobsite.jpg\"><img class=\"alignnone wp-image-2461 size-full\" src=\"http://www.newmantractor.com/wp-content/uploads/2016/08/H20-sany-jobsite.jpg\" alt=\"H20-sany-jobsite\" width=\"940\" height=\"480\" /></a>\n\n&nbsp;\n<h2>H2O Construction Busting Through Rock</h2>\nH2O Construction has been taking on the biggest construction jobs in their region since 1983. Their newest task is working on making the way for UPIKE's new building and busting through 80 feet of rock. And they have partnered with Newman Tractor to help get through the rock wall.\n\nNewman Tractor has recently became a dealer of Sany Excavators and Okada Hammers. And these tough conditions, as Marty Malloy puts it, are a \"pretty good test\" for the durability of the Sany Excavators and Okada Hammers.\n\nSteve Lockhart of H2O Construction is gratified by the rugged performances of the Sany Excavators and Okada Hammers. They have been going non-stop for the past 2 months, working 60-70 hours a week. Lockhart says they are moving \"a lot of rock in a short time.\"\n\n<a href=\"http://www.newmantractor.com/wp-content/uploads/2015/10/sany-hammer.jpg\"><img class=\"alignnone wp-image-2460 size-full\" src=\"http://www.newmantractor.com/wp-content/uploads/2015/10/sany-hammer.jpg\" alt=\"sany-hammer\" width=\"940\" height=\"480\" /></a>\n\n&nbsp;\n\nUniversity of Pikeville's new Health Professions Education Building is scheduled to be complete in Fall 2016.\n\nA big thanks to Steve Lockhart, H2O Construction Company of Pikeville, and <a href=\"http://www.upike.edu/\">UPike</a>.[/vc_column_text][/vc_column][/vc_row]"
+                  },
+                  {
+                     "__cdata": ""
+                  }
+               ],
+               "post_id": {
+                  "__text": "401642"
+               },
+               "post_date": {
+                  "__cdata": "2017-10-23 14:25:30"
+               },
+               "post_date_gmt": {
+                  "__cdata": "2017-10-23 18:25:30"
+               },
+               "comment_status": {
+                  "__cdata": "open"
+               },
+               "ping_status": {
+                  "__cdata": "closed"
+               },
+               "post_name": {
+                  "__cdata": "h2o-construction-upike-site"
+               },
+               "status": {
+                  "__cdata": "publish"
+               },
+               "post_parent": {
+                  "__text": "0"
+               },
+               "menu_order": {
+                  "__text": "0"
+               },
+               "post_type": {
+                  "__cdata": "post"
+               },
+               "post_password": {
+                  "__cdata": ""
+               },
+               "is_sticky": {
+                  "__text": "0"
+               },
+               "category": [
+                  {
+                     "_domain": "category",
+                     "_nicename": "events",
+                     "__cdata": "Events"
+                  },
+                  {
+                     "_domain": "post_format",
+                     "_nicename": "post-format-video",
+                     "__cdata": "Video"
+                  },
+                  {
+                     "_domain": "category",
+                     "_nicename": "work",
+                     "__cdata": "Work"
+                  }
+               ],
+               "postmeta": [
+                  {
+                     "meta_key": {
+                        "__cdata": "_vc_post_settings"
+                     },
+                     "meta_value": {
+                        "__cdata": "a:1:{s:10:\"vc_grid_id\";a:0:{}}"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_views_template"
+                     },
+                     "meta_value": {
+                        "__cdata": "378749"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_edit_last"
+                     },
+                     "meta_value": {
+                        "__cdata": "3"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_wpb_vc_js_status"
+                     },
+                     "meta_value": {
+                        "__cdata": "true"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_vc_post_settings"
+                     },
+                     "meta_value": {
+                        "__cdata": "a:1:{s:10:\"vc_grid_id\";a:0:{}}"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "slide_template"
+                     },
+                     "meta_value": {
+                        "__cdata": "default"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "pgl_post_views_count"
+                     },
+                     "meta_value": {
+                        "__cdata": "1617"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_oembed_ccc81536faa5645ac2b098b47576dd79"
+                     },
+                     "meta_value": {
+                        "__cdata": "<iframe src=\"https://player.vimeo.com/video/140797609\" width=\"640\" height=\"360\"  title=\"Pikeville, Ky H20 Construction\"   allowfullscreen></iframe>"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_oembed_time_ccc81536faa5645ac2b098b47576dd79"
+                     },
+                     "meta_value": {
+                        "__cdata": "1443712719"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_focuskw"
+                     },
+                     "meta_value": {
+                        "__cdata": "H2O"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_metadesc"
+                     },
+                     "meta_value": {
+                        "__cdata": "Steve Lockhart of H2O Construction talks about the performance of Newman Tractor's new Sany Excavators and Okada Hammers."
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_pgl_post_video"
+                     },
+                     "meta_value": {
+                        "__cdata": "https://vimeo.com/140797609"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_linkdex"
+                     },
+                     "meta_value": {
+                        "__cdata": "93"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_oembed_83842e2e973fb91c7d8b613970312acb"
+                     },
+                     "meta_value": {
+                        "__cdata": "<iframe src=\"https://player.vimeo.com/video/140797609\" width=\"300\" height=\"169\"  title=\"Pikeville, Ky H20 Construction\"   allowfullscreen></iframe>"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_oembed_time_83842e2e973fb91c7d8b613970312acb"
+                     },
+                     "meta_value": {
+                        "__cdata": "1445541562"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_focuskw_text_input"
+                     },
+                     "meta_value": {
+                        "__cdata": "H2O"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_wp_old_slug"
+                     },
+                     "meta_value": {
+                        "__cdata": "h2o-construction-upike-site__trashed"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_views_template"
+                     },
+                     "meta_value": {
+                        "__cdata": "0"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_primary_category"
+                     },
+                     "meta_value": {
+                        "__cdata": "2"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_primary_inventory_type"
+                     },
+                     "meta_value": {
+                        "__cdata": ""
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_wpt_view_count"
+                     },
+                     "meta_value": {
+                        "__cdata": "70"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_is_cornerstone"
+                     },
+                     "meta_value": {
+                        "__cdata": ""
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yoast_wpseo_content_score"
+                     },
+                     "meta_value": {
+                        "__cdata": "30"
+                     }
+                  },
+                  {
+                     "meta_key": {
+                        "__cdata": "_yst_prominent_words_version"
+                     },
+                     "meta_value": {
+                        "__cdata": "1"
+                     }
+                  }
+               ]
+            }
+         ]
+      },
+      "_xmlns:excerpt": "http://wordpress.org/export/1.2/excerpt/",
+      "_xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "_xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+      "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "_xmlns:wp": "http://wordpress.org/export/1.2/",
+      "_version": "2.0"
+   }
+}

@@ -20,8 +20,6 @@ function htmlToBlocks (html, options) {
  // html = html.replace(/\[(\S+)[^\]]*][^\[]*\[\/\1\]/g, '');
 
 
-  console.log(html)
-
   const blocks = blockTools.htmlToBlocks(sanitizeHTML(html), blockContentType, {
     parseHtml: htmlContent => new JSDOM(htmlContent).window.document,
     rules: [
@@ -57,16 +55,20 @@ function htmlToBlocks (html, options) {
       {
         deserialize (el, next, block) {
           if (el.tagName === 'IMG') {
-            return block({
+            /* return block({
                 _type: 'image',
                 _sanityAsset: `image@${el
                   .getAttribute('src')
                   //.replace(/^\/\//, 'http://')
                 }`
-            })
+            }) */
+            return {
+              "_sanityAsset": `image@${el
+                .getAttribute('src')
+                }`, "_type": "image" }
           }
 
-          if (
+          /* if (
             el.tagName.toLowerCase() === 'p' &&
             el.childNodes.length === 1 &&
             el.childNodes.tagName &&
@@ -78,7 +80,7 @@ function htmlToBlocks (html, options) {
                   //.replace(/^\/\//, 'https://')
                 }`
             })
-          }
+          } */
           return undefined
         }
       }
