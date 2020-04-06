@@ -7,10 +7,20 @@ const blockContentType = defaultSchema
   .get('blogPost')
   .fields.find(field => field.name === 'body').type
 
+const {autop} = require('./autop');
+
+
 function htmlToBlocks (html, options) {
   if (!html) {
     return []
   }
+
+  html = html.replace(/\[.*?\]/g, "");
+  html = autop(html);
+ // html = html.replace(/\[(\S+)[^\]]*][^\[]*\[\/\1\]/g, '');
+
+
+  console.log(html)
 
   const blocks = blockTools.htmlToBlocks(sanitizeHTML(html), blockContentType, {
     parseHtml: htmlContent => new JSDOM(htmlContent).window.document,
@@ -51,7 +61,8 @@ function htmlToBlocks (html, options) {
                 _type: 'image',
                 _sanityAsset: `image@${el
                   .getAttribute('src')
-                  .replace(/^\/\//, 'https://')}`
+                  //.replace(/^\/\//, 'http://')
+                }`
             })
           }
 
@@ -61,14 +72,13 @@ function htmlToBlocks (html, options) {
             el.childNodes.tagName &&
             el.childNodes[0].tagName.toLowerCase() === 'img'
           ) {
-            return block({
-              _type: 'image',
+             return block({
                 _sanityAsset: `image@${el.childNodes[0]
                   .getAttribute('src')
-                  .replace(/^\/\//, 'https://')}`
+                  //.replace(/^\/\//, 'https://')
+                }`
             })
           }
-          // Only convert block-level images, for now
           return undefined
         }
       }

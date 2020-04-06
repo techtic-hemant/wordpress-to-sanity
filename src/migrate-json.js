@@ -4,7 +4,7 @@
 const fs = require('fs')
 const parseDate = require('./lib/parseDate')
 const parseBody = require('./lib/parseBody')
-const slugify = require('slugify');
+//const slugify = require('slugify');
 const ndjson = require('ndjson')
 
 function generateAuthorId(id) {
@@ -13,6 +13,19 @@ function generateAuthorId(id) {
 
 function generateCategoryId(id) {
     return `category-${id}`
+}
+
+function slugify( str ) {
+
+  //replace all special characters | symbols with a space
+  str = str.replace(/[`~!@#$%^&*()_\-+=\[\]{};:'"\\|\/,.<>?\s]/g, ' ').toLowerCase();
+
+  // trim spaces at start and end of string
+  str = str.replace(/^\s+|\s+$/gm,'');
+
+  // replace space with dash/hyphen
+  str = str.replace(/\s+/g, '-');
+  return str;
 }
 
 function getJsonFromFile(path = '') {
@@ -127,11 +140,11 @@ async function main() {
     const json = await getJsonFromFile(__dirname + "/" + filename);
     const output = await buildJSON(json);
 
-    //let data = JSON.stringify(output, null, '\t');
+    let data = JSON.stringify(output, null, '\t');
 
     // console.log("File saved : " + filename + ".json");
     // fs.writeFileSync(__dirname + "/" + filename+".json" , data);
-
+    fs.writeFileSync(__dirname + "/" + filename + ".json", data);
     const serialize = ndjson.serialize();
 
     var ndjsonData = [];
